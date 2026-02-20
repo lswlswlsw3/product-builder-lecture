@@ -15,3 +15,6 @@ This project is a framework-less web application (HTML, CSS, JS) designed to be 
 ## Current State
 *   Project initialized with basic HTML/CSS/JS.
 *   Git remote configured to GitHub.
+*   **Added Feature:** Recommendation history list (shows last 5 results).
+*   **Added Feature:** Modern UI with gradients and animations.
+*   **CI/CD:** GitHub Actions workflow added for Cloudflare Pages deployment.
